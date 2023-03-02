@@ -388,11 +388,6 @@ const menu = [
     img: "https://i.ytimg.com/vi/_uX9bNluzdQ/maxresdefault.jpg",
     desc: `İrmik Helvası, irmik, şeker, süt ve tereyağının kavrulmasıyla hazırlanan bir Türk tatlısıdır. Genellikle sıcak olarak servis edilir.`,
   }
-  
-
-
-
-
 ];
 
 initializePageFromMenu(menu);
